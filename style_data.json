@@ -1,0 +1,110 @@
+[
+  {
+    "nameProduct": "Gucci Ace Embroidered Sneaker",
+    "price": 650.00,
+    "images": [
+      "assets/gucci-ace-1.jpg",
+      "assets/gucci-ace-2.jpg",
+      "assets/gucci-ace-3.jpg"
+    ]
+  },
+  {
+    "nameProduct": "Louis Vuitton Monogram Canvas Keepall 55",
+    "price": 2350.00,
+    "images": [
+      "assets/lv-keepall-1.jpg",
+      "assets/lv-keepall-2.jpg",
+      "assets/lv-keepall-3.jpg"
+    ]
+  },
+  {
+    "nameProduct": "Hermès Birkin 35 Togo Leather",
+    "price": 12500.00,
+    "images": [
+      "assets/hermes-birkin-1.jpg",
+      "assets/hermes-birkin-2.jpg",
+      "assets/hermes-birkin-3.jpg"
+    ]
+  },
+  {
+    "nameProduct": "Burberry Heritage Trench Coat",
+    "price": 1890.00,
+    "images": [
+      "assets/burberry-trench-1.jpg",
+      "assets/burberry-trench-2.jpg",
+      "assets/burberry-trench-3.jpg"
+    ]
+  },
+  {
+    "nameProduct": "Versace Barocco Print Silk Shirt",
+    "price": 975.00,
+    "images": [
+      "assets/versace-shirt-1.jpg",
+      "assets/versace-shirt-2.jpg",
+      "assets/versace-shirt-3.jpg"
+    ]
+  },
+  {
+    "nameProduct": "Prada Re-Nylon Backpack",
+    "price": 1450.00,
+    "images": [
+      "assets/prada-backpack-1.jpg",
+      "assets/prada-backpack-2.jpg",
+      "assets/prada-backpack-3.jpg"
+    ]
+  },
+  {
+    "nameProduct": "Balenciaga Triple S Sneaker",
+    "price": 1050.00,
+    "images": [
+      "assets/balenciaga-triple-s-1.jpg",
+      "assets/balenciaga-triple-s-2.jpg",
+      "assets/balenciaga-triple-s-3.jpg"
+    ]
+  },
+  {
+    "nameProduct": "Dior Oblique Saddle Bag",
+    "price": 3500.00,
+    "images": [
+      "assets/dior-saddle-1.jpg",
+      "assets/dior-saddle-2.jpg",
+      "assets/dior-saddle-3.jpg"
+    ]
+  },
+  {
+    "nameProduct": "Saint Laurent Leather Biker Jacket",
+    "price": 5990.00,
+    "images": [
+      "assets/ysl-biker-1.jpg",
+      "assets/ysl-biker-2.jpg",
+      "assets/ysl-biker-3.jpg"
+    ]
+  },
+  {
+    "nameProduct": "Chanel Classic Flap Bag Medium",
+    "price": 8800.00,
+    "images": [
+      "assets/chanel-flap-1.jpg",
+      "assets/chanel-flap-2.jpg",
+      "assets/chanel-flap-3.jpg"
+    ]
+  },
+  {
+    "nameProduct": "Tom Ford O'Connor Suit",
+    "price": 4980.00,
+    "images": [
+      "assets/tomford-suit-1.jpg",
+      "assets/tomford-suit-2.jpg",
+      "assets/tomford-suit-3.jpg"
+    ]
+  },
+  {
+    "nameProduct": "Off-White Diagonal Stripe Hoodie",
+    "price": 595.00,
+    "images": [
+      "assets/offwhite-hoodie-1.jpg",
+      "assets/offwhite-hoodie-2.jpg",
+      "assets/offwhite-hoodie-3.jpg"
+    ]
+  }
+]
